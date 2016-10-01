@@ -1,0 +1,33 @@
+{
+    "data": [
+
+        {
+            "id": "5739d1fbeac05b8bcc2959cd",
+            "title": "Team meeting",
+            "description": "About the future of the web",
+            "archive": false,
+            "image": "",
+            "color": "",
+            "time": "2016-05-13T20:11:27.587Z",
+            "reminder": "2016-01-19T09:17:15.587Z",
+            "checklist": [],
+            "labels": [
+                "5725a6809fdd915739187ed5"
+            ]
+        },
+        {
+            "id": "5739d1fb2fe509295e0847b5",
+            "title": "",
+            "description": "Lunch with parents",
+            "archive": false,
+            "image": "",
+            "color": "md-light-green-50-bg",
+            "time": "2016-01-17T00:40:05.587Z",
+            "reminder": null,
+            "checklist": [],
+            "labels": [
+                "5725a6802d10e277a0f35739"
+            ]
+        }
+    ]
+}
