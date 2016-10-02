@@ -8,38 +8,26 @@
     angular
         .module('test', [
 
-            // Core
-            'app.core',
-
-            // Navigation
-            'app.navigation',
-
-            // Toolbar
-            'app.toolbar',
-
-            // Quick panel
-            'app.quick-panel',
-
-            // Apps
-          /*  'app.dashboards',
-            'app.calendar',
-            'app.e-commerce',
-            'app.mail',
-            'app.chat',
-            'app.file-manager',
-            'app.scrumboard',
-            'app.gantt-chart',
-            'app.todo',
-            'app.contacts',*/
-            'app.notes',
-
-            // Pages
-            'app.pages',
-
-            // User Interface
-            'app.ui',
-
-            // Components
-            'app.components'
+            'ngAnimate',
+            'ngAria',
+            'ngCookies',
+            'ngMessages',
+            'ngResource',
+            'ngSanitize',
+            'ngMaterial',
+            'angular-chartist',
+            'chart.js',
+            'datatables',
+            'gridshore.c3js.chart',
+            'nvd3',
+            'pascalprecht.translate',
+            'timer',
+            'ui.router',
+            'uiGmapgoogle-maps',
+            'textAngular',
+            'ui.sortable',
+            'ng-sortable',
+            'xeditable',
+            'moment-picker'
         ]);
 })();
